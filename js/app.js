@@ -113,7 +113,7 @@ setTimeout(function(){
 setTimeout(function(){
     waitSecure.innerHTML = "";
 }, 2400);
-setTimeout(function(){;
+setTimeout(function(){
     waitSecure.innerHTML = "Wait...";
 }, 2700);
 };
