@@ -116,4 +116,4 @@ setTimeout(function(){
 setTimeout(function(){
     waitSecure.innerHTML = "Wait...";
 }, 2700);
-};
+}
