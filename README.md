@@ -1,4 +1,4 @@
-![STATUS-TO UPGRADE-](https://github.com/cauemondek/login-screen/assets/121320616/378b3be0-8d6c-4e0a-b15e-07e61ab36c98)
+![STATUS-TO UPDATE-](https://github.com/cauemondek/traffic-signal/assets/121320616/3f6d8569-1b7a-475b-9396-d3103e6bf079)
 
 <h1 align="center">Buy List</h1>
 <p align="center">A web list, you can add some itens to buy or to-do.</p>
